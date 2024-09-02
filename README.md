@@ -6,7 +6,7 @@
 ![Bronze medal](https://img.shields.io/badge/medal-bronze-b08d57.svg)
 
 ## Overview
-#### Model design
+#### Solution
 - RoBerta & Naive Bayes ensemble
 
 ## License
